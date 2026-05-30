@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+.DS_Store
+
+/.quarto/
+**/*.quarto_ipynb
+*.numbers
+world-cup_2026.csv
