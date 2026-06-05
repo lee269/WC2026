@@ -24,6 +24,7 @@ library(here)
 library(readr)
 library(purrr)
 library(reactable)
+library(glue)
 
 source(here("R", "league_table.R"))
 
@@ -163,10 +164,14 @@ rankings <- read_csv(here("data", "rankings.csv"))
 
 rankings |> 
   mutate(team1 = country, 
-         rank1 = fifa_rank,
+         fifa_rank1 = fifa_rank,
+         sweep_rank1 = sweep_rank,
          team2 = lead(country, 24),
-         rank2 = lead(fifa_rank, 24)) |> 
-  filter(!is.na(team2)) |> 
+         fifa_rank2 = lead(fifa_rank, 24),
+         sweep_rank2 = lead(sweep_rank, 24),
+         draw = glue("{team1} ({sweep_rank1}) {team2} ({sweep_rank2})")) |> 
+  filter(!is.na(team2)) |>
+  select(team1, team2, draw) |> 
   knitr::kable()
 
 ```
