@@ -4,6 +4,8 @@ output:
   html_document:
     toc: TRUE
     toc_float: TRUE
+    theme:
+      bootswatch: minty
 knit: |
   (function(input, ...) {
     rmarkdown::render(
@@ -25,6 +27,7 @@ library(readr)
 library(purrr)
 library(reactable)
 library(glue)
+library(bslib)
 
 source(here("R", "league_table.R"))
 
@@ -33,8 +36,8 @@ source(here("R", "league_table.R"))
 # https://bookdown.org/yihui/rmarkdown-cookbook/custom-knit.html
 
 # seed = round(16.4 * 1224, digits = 0)
-# now <- Sys.time()
-now <- as.POSIXct("2026-06-12 12:00:00")
+now <- Sys.time()
+# now <- as.POSIXct("2026-06-12 12:00:00")
 groups <- c("Group A",
             "Group B",
             "Group C",
@@ -110,29 +113,9 @@ Welcome to the World Cup 2026 Sweep! Your chance to add a little spice to your
 summer and maybe win a valuable Cash Prize! As usual there are a range of
 prizes available to maximise the chances of prolonging your interest.
 
-- **Winner** receives £18
-- **Runner up** gets £6
+## Set-up {.tabset .tabset-pills}
 
-As you would expect, there are data-driven categories with a value of £6 each:
-
-- **Wooden Spoon** for the worst team in the tournament based on results
-- **Entertainers** for the team involved in the most goals
-- **Anti-footballers** for the dirtiest team
-
-And finally because data isn't everything there is a qualitative category with a £6 value:
-
-- **The Mystery Prize** To Be Decided
-
-### The small print
-
-All statistics will be drawn from the official
-[World Cup 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026) website. The organisers reserve the right to tweak the criteria for the bonus categories, to break ties or
-generally to keep it sensible. As always in case of questions over the rules,
-the organisers decision is _final_.
-
-## The set-up {.tabset .tabset-pills}
-
-### The contestants
+### Contestants
 
 Here are the results of the draw:
 
@@ -153,7 +136,29 @@ names <- contestants$Name
 
 ```
 
-### The teams
+### Prizes
+
+#### What you could win!
+
+- **Winner** receives £18
+- **Runner up** gets £6
+
+As you would expect, there are data-driven categories with a value of £6 each:
+
+- **Wooden Spoon** for the worst team in the tournament based on results
+- **Entertainers** for the team involved in the most goals
+- **Anti-footballers** for the dirtiest team
+
+And finally because data isn't everything there is a qualitative category with a £6 value:
+
+- **The Mystery Prize** To Be Decided
+
+#### The small print
+
+All statistics will be drawn from the official
+[World Cup 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026) website. The organisers reserve the right to tweak the criteria for the bonus categories, to break ties or
+generally to keep it sensible. As always in case of questions over the rules,
+the organisers decision is _final_.
 
 
 ### Sweep teams
@@ -211,14 +216,12 @@ knitr::kable(draw)
 ```
 
 
-## The Tournament {.tabset}
+## Tournament data {.tabset}
 
 Match data updated at **`r format(Sys.time(), "%d %b %Y %H:%M")`**. 
 
 ### Fixtures
 
-Use the fixture list to a) to ensure you never miss a match on TV, or b)
-schedule some Married At First Sight: Australia binge sessions.
 
 ```{r fixtures}
 
@@ -234,12 +237,12 @@ fixtures |>
             resizable = TRUE,
             filterable = TRUE,
             columns = list(
-            matchnumber = colDef(name = "Match #"),
-            date = colDef(name = "Date", format = colFormat(datetime = TRUE)),
-            fixture = colDef(name = "Fixture"),
+            matchnumber = colDef(name = "Match #", minWidth = 55),
+            date = colDef(name = "Date", format = colFormat(datetime = TRUE), minWidth = 150),
+            fixture = colDef(name = "Fixture", minWidth = 200),
             location = colDef(name = "Venue"),
-            group = colDef(name= "Group"),
-            roundnumber = colDef(name = "Round"))
+            group = colDef(name= "Group", minWidth = 60),
+            roundnumber = colDef(name = "Round", minWidth = 50))
             )
 
 ```
@@ -293,7 +296,7 @@ matchdata_full |>
 ```
 
 
-## The Prizes {.tabset .tabset-pills}
+## Winners {.tabset .tabset-pills}
 
 ### Wooden Spoon
 
