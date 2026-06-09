@@ -120,19 +120,25 @@ prizes available to maximise the chances of prolonging your interest.
 Here are the results of the draw:
 
 ```{r contestants, message=FALSE, warning=FALSE}
-
-names <- c("David Lee", "Maria Prokopiou", "Nikita Driver", "Michael Archer",
-            "Simon Dixon", "Huw Evans", "Elsa Richmond-Seaton", "Alessandro Cahill",
-            "Matt Ensor", "Isabella Worth", "Matt Keating", "Joe Lawley",
-           "Alexis Rampa", "Courtney Keane", "John Walsh", "Carine Valarche",
-           "Ian Lonsdale", "Chris Silwood", "Leigh Riley", "Rachel Latham",
-           "Helen Hoult", "Shakti Shah", "Sarath Kizhakkoott", "Lisa Lee")
-
 contestants <- read_csv(here("data", "contestants.csv"))
+rankings <- read_csv(here("data", "rankings.csv"))
 
-knitr::kable(contestants)
 
-names <- contestants$Name
+rankings <- rankings |> 
+  mutate(team1 = country, 
+         fifa_rank1 = fifa_rank,
+         sweep_rank1 = sweep_rank,
+         team2 = lead(country, 24),
+         fifa_rank2 = lead(fifa_rank, 24),
+         sweep_rank2 = lead(sweep_rank, 24),
+         draw = glue("{team1} ({sweep_rank1}) {team2} ({sweep_rank2})")) |> 
+  filter(!is.na(team2))
+
+contestants |> 
+  left_join(rankings,by = join_by(Team == sweep_rank)) |> 
+  select(Number, Name, Teams = draw, Paid) |> knitr::kable()
+
+
 
 ```
 
