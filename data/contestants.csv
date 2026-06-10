@@ -8,7 +8,7 @@ Number,Name,Team,Paid
 7,Kara Flint ,21,N
 8,Matt Keating,20,N
 9,Julie Rumsey,4,N
-10,Alison Wray,21,N
+10,Alison Wray,21,Y
 11,Jai Tugnait,17,N
 12,Bradley Harrison,22,N
 13,Simon Dixon,24,N
@@ -19,7 +19,7 @@ Number,Name,Team,Paid
 18,Ian Lonsdale,18,N
 19,Sal Burgess,15,N
 20,Fred White-Overton,10,N
-21,Leigh Riley,3,N
+21,Leigh Riley,3,Y
 22,Isabella Worth,13,N
 23,David Lee,5,N
 24,Lucy Steward,16,N
@@ -27,4 +27,4 @@ Number,Name,Team,Paid
 26,Sophie Rollinson,12,N
 27,Ellie Smith,2,N
 28,Odera Ndujiuba,2,N
-29,Cat Hand,3,N
+29,Cat Hand,3,Y
