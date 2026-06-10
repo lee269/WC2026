@@ -136,7 +136,16 @@ rankings <- rankings |>
 
 contestants |> 
   left_join(rankings,by = join_by(Team == sweep_rank)) |> 
-  select(Number, Name, Teams = draw, Paid) |> knitr::kable()
+  select(Number, Name, Teams = draw, Paid) |> 
+  reactable(pagination = FALSE, 
+            filterable = TRUE, 
+            compact = TRUE, 
+            columns = list(
+              Number = colDef(name = "#", minWidth = 10),
+              Name = colDef(name = "Name", minWidth = 50),
+              Teams = colDef(name = "Teams", minWidth = 50),
+              Paid = colDef(name = "Paid?", minWidth = 10))
+            )
 
 
 
