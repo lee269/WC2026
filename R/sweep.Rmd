@@ -167,9 +167,8 @@ generally to keep it sensible. As always in case of questions over the rules,
 the organisers decision is _final_.
 
 
-### Sweep teams
 
-```{r, echo=FALSE, message=FALSE}
+```{r, echo=FALSE, message=FALSE, results='hide'}
 rankings <- read_csv(here("data", "rankings.csv"))
 
 
@@ -375,7 +374,7 @@ matchdata_full |>
 
 ### Anti-footballers
 
-The 'thug index' is calculated as follows: a red card is 25pts, a yellow 5pts
+The 'anti-football index' is calculated as follows: a red card is 25pts, a yellow 5pts
 and a foul 1. These weights are applied to the match data and divided by the
 number of matches played.
 
@@ -389,8 +388,8 @@ matchdata_full |>
             ycards = sum(ycards),
             rcards = sum(rcards),
             fouls = sum(fouls),
-            thug_index = ((rcards * 25) + (ycards *5) + fouls) / played) |> 
-  arrange(-thug_index) |> 
+            af_index = ((rcards * 25) + (ycards *5) + fouls) / played) |> 
+  arrange(-af_index) |> 
   reactable(pagination = TRUE,
             compact = TRUE,
             columns = list(
@@ -399,7 +398,7 @@ matchdata_full |>
               ycards = colDef(name = "Yellow cards"),
               rcards = colDef(name = "Red cards"),
               fouls = colDef(name = "Fouls"),
-              thug_index = colDef(name = "Thug index", format = colFormat(digits = 2))
+              af_index = colDef(name = "AF index", format = colFormat(digits = 2))
             ))
 
 ```
