@@ -12,7 +12,7 @@ league_table <- function(groupname, data){
               ycards = sum(ycards),
               rcards = sum(rcards),
               fouls = sum(fouls),
-              thug_index = ((rcards * 25) + (ycards *5) + fouls) / played,
+              af_index = ((rcards * 25) + (ycards *5) + fouls) / played,
               pts = sum(points)) 
   
   

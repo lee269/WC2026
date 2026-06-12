@@ -1,8 +1,8 @@
 matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards,rcards,fouls
-1,1,11/06/2026 20:00,Mexico City Stadium,Group A,hometeam,Mexico,0,0,0,0,0
-1,1,11/06/2026 20:00,Mexico City Stadium,Group A,awayteam,South Africa,0,0,0,0,0
-2,1,12/06/2026 03:00,Guadalajara Stadium,Group A,hometeam,Korea Republic,0,0,0,0,0
-2,1,12/06/2026 03:00,Guadalajara Stadium,Group A,awayteam,Czechia,0,0,0,0,0
+1,1,11/06/2026 20:00,Mexico City Stadium,Group A,hometeam,Mexico,2,0,1,1,12
+1,1,11/06/2026 20:00,Mexico City Stadium,Group A,awayteam,South Africa,0,0,2,2,11
+2,1,12/06/2026 03:00,Guadalajara Stadium,Group A,hometeam,Korea Republic,2,0,1,0,10
+2,1,12/06/2026 03:00,Guadalajara Stadium,Group A,awayteam,Czechia,1,0,0,0,15
 3,1,12/06/2026 20:00,Toronto Stadium,Group B,hometeam,Canada,0,0,0,0,0
 3,1,12/06/2026 20:00,Toronto Stadium,Group B,awayteam,Bosnia and Herzegovina,0,0,0,0,0
 4,1,13/06/2026 02:00,Los Angeles Stadium,Group D,hometeam,USA,0,0,0,0,0
