@@ -7,14 +7,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 3,1,12/06/2026 20:00,Toronto Stadium,Group B,awayteam,Bosnia and Herzegovina,1,0,3,0,20
 4,1,13/06/2026 02:00,Los Angeles Stadium,Group D,hometeam,USA,4,0,1,0,13
 4,1,13/06/2026 02:00,Los Angeles Stadium,Group D,awayteam,Paraguay,1,0,5,0,17
-8,1,13/06/2026 20:00,San Francisco Bay Area Stadium,Group B,hometeam,Qatar,0,0,0,0,0
-8,1,13/06/2026 20:00,San Francisco Bay Area Stadium,Group B,awayteam,Switzerland,0,0,0,0,0
-7,1,13/06/2026 23:00,New York/New Jersey Stadium,Group C,hometeam,Brazil,0,0,0,0,0
-7,1,13/06/2026 23:00,New York/New Jersey Stadium,Group C,awayteam,Morocco,0,0,0,0,0
-5,1,14/06/2026 02:00,Boston Stadium,Group C,hometeam,Haiti,0,0,0,0,0
-5,1,14/06/2026 02:00,Boston Stadium,Group C,awayteam,Scotland,0,0,0,0,0
-6,1,14/06/2026 05:00,BC Place Vancouver,Group D,hometeam,Australia,0,0,0,0,0
-6,1,14/06/2026 05:00,BC Place Vancouver,Group D,awayteam,Türkiye,0,0,0,0,0
+8,1,13/06/2026 20:00,San Francisco Bay Area Stadium,Group B,hometeam,Qatar,1,0,2,0,11
+8,1,13/06/2026 20:00,San Francisco Bay Area Stadium,Group B,awayteam,Switzerland,1,0,1,0,12
+7,1,13/06/2026 23:00,New York/New Jersey Stadium,Group C,hometeam,Brazil,1,0,2,0,16
+7,1,13/06/2026 23:00,New York/New Jersey Stadium,Group C,awayteam,Morocco,1,0,0,0,14
+5,1,14/06/2026 02:00,Boston Stadium,Group C,hometeam,Haiti,0,0,1,0,23
+5,1,14/06/2026 02:00,Boston Stadium,Group C,awayteam,Scotland,1,0,3,0,21
+6,1,14/06/2026 05:00,BC Place Vancouver,Group D,hometeam,Australia,2,0,0,0,12
+6,1,14/06/2026 05:00,BC Place Vancouver,Group D,awayteam,Türkiye,0,0,1,0,4
 10,1,14/06/2026 18:00,Houston Stadium,Group E,hometeam,Germany,0,0,0,0,0
 10,1,14/06/2026 18:00,Houston Stadium,Group E,awayteam,Curaçao,0,0,0,0,0
 11,1,14/06/2026 21:00,Dallas Stadium,Group F,hometeam,Netherlands,0,0,0,0,0
