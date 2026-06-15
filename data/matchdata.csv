@@ -15,14 +15,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 5,1,14/06/2026 02:00,Boston Stadium,Group C,awayteam,Scotland,1,0,3,0,21
 6,1,14/06/2026 05:00,BC Place Vancouver,Group D,hometeam,Australia,2,0,0,0,12
 6,1,14/06/2026 05:00,BC Place Vancouver,Group D,awayteam,Türkiye,0,0,1,0,4
-10,1,14/06/2026 18:00,Houston Stadium,Group E,hometeam,Germany,0,0,0,0,0
-10,1,14/06/2026 18:00,Houston Stadium,Group E,awayteam,Curaçao,0,0,0,0,0
-11,1,14/06/2026 21:00,Dallas Stadium,Group F,hometeam,Netherlands,0,0,0,0,0
-11,1,14/06/2026 21:00,Dallas Stadium,Group F,awayteam,Japan,0,0,0,0,0
-9,1,15/06/2026 00:00,Philadelphia Stadium,Group E,hometeam,Côte d'Ivoire,0,0,0,0,0
-9,1,15/06/2026 00:00,Philadelphia Stadium,Group E,awayteam,Ecuador,0,0,0,0,0
-12,1,15/06/2026 03:00,Monterrey Stadium,Group F,hometeam,Sweden,0,0,0,0,0
-12,1,15/06/2026 03:00,Monterrey Stadium,Group F,awayteam,Tunisia,0,0,0,0,0
+10,1,14/06/2026 18:00,Houston Stadium,Group E,hometeam,Germany,7,1,0,0,18
+10,1,14/06/2026 18:00,Houston Stadium,Group E,awayteam,Curaçao,1,0,0,0,11
+11,1,14/06/2026 21:00,Dallas Stadium,Group F,hometeam,Netherlands,2,0,3,0,7
+11,1,14/06/2026 21:00,Dallas Stadium,Group F,awayteam,Japan,2,0,0,0,7
+9,1,15/06/2026 00:00,Philadelphia Stadium,Group E,hometeam,Côte d'Ivoire,1,0,3,0,10
+9,1,15/06/2026 00:00,Philadelphia Stadium,Group E,awayteam,Ecuador,0,0,1,0,13
+12,1,15/06/2026 03:00,Monterrey Stadium,Group F,hometeam,Sweden,5,0,0,0,10
+12,1,15/06/2026 03:00,Monterrey Stadium,Group F,awayteam,Tunisia,1,0,1,0,6
 14,1,15/06/2026 17:00,Atlanta Stadium,Group H,hometeam,Spain,0,0,0,0,0
 14,1,15/06/2026 17:00,Atlanta Stadium,Group H,awayteam,Cabo Verde,0,0,0,0,0
 16,1,15/06/2026 20:00,Seattle Stadium,Group G,hometeam,Belgium,0,0,0,0,0
