@@ -23,14 +23,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 9,1,15/06/2026 00:00,Philadelphia Stadium,Group E,awayteam,Ecuador,0,0,1,0,13
 12,1,15/06/2026 03:00,Monterrey Stadium,Group F,hometeam,Sweden,5,0,0,0,10
 12,1,15/06/2026 03:00,Monterrey Stadium,Group F,awayteam,Tunisia,1,0,1,0,6
-14,1,15/06/2026 17:00,Atlanta Stadium,Group H,hometeam,Spain,0,0,0,0,0
-14,1,15/06/2026 17:00,Atlanta Stadium,Group H,awayteam,Cabo Verde,0,0,0,0,0
-16,1,15/06/2026 20:00,Seattle Stadium,Group G,hometeam,Belgium,0,0,0,0,0
-16,1,15/06/2026 20:00,Seattle Stadium,Group G,awayteam,Egypt,0,0,0,0,0
-13,1,15/06/2026 23:00,Miami Stadium,Group H,hometeam,Saudi Arabia,0,0,0,0,0
-13,1,15/06/2026 23:00,Miami Stadium,Group H,awayteam,Uruguay,0,0,0,0,0
-15,1,16/06/2026 02:00,Los Angeles Stadium,Group G,hometeam,IR Iran,0,0,0,0,0
-15,1,16/06/2026 02:00,Los Angeles Stadium,Group G,awayteam,New Zealand,0,0,0,0,0
+14,1,15/06/2026 17:00,Atlanta Stadium,Group H,hometeam,Spain,0,0,1,0,10
+14,1,15/06/2026 17:00,Atlanta Stadium,Group H,awayteam,Cabo Verde,0,0,1,0,1
+16,1,15/06/2026 20:00,Seattle Stadium,Group G,hometeam,Belgium,1,0,2,0,15
+16,1,15/06/2026 20:00,Seattle Stadium,Group G,awayteam,Egypt,1,0,2,0,15
+13,1,15/06/2026 23:00,Miami Stadium,Group H,hometeam,Saudi Arabia,1,0,1,0,11
+13,1,15/06/2026 23:00,Miami Stadium,Group H,awayteam,Uruguay,1,0,0,0,6
+15,1,16/06/2026 02:00,Los Angeles Stadium,Group G,hometeam,IR Iran,2,0,1,0,10
+15,1,16/06/2026 02:00,Los Angeles Stadium,Group G,awayteam,New Zealand,2,0,0,0,8
 17,1,16/06/2026 20:00,New York/New Jersey Stadium,Group I,hometeam,France,0,0,0,0,0
 17,1,16/06/2026 20:00,New York/New Jersey Stadium,Group I,awayteam,Senegal,0,0,0,0,0
 18,1,16/06/2026 23:00,Boston Stadium,Group I,hometeam,Iraq,0,0,0,0,0
