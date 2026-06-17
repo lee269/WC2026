@@ -31,14 +31,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 13,1,15/06/2026 23:00,Miami Stadium,Group H,awayteam,Uruguay,1,0,0,0,6
 15,1,16/06/2026 02:00,Los Angeles Stadium,Group G,hometeam,IR Iran,2,0,1,0,10
 15,1,16/06/2026 02:00,Los Angeles Stadium,Group G,awayteam,New Zealand,2,0,0,0,8
-17,1,16/06/2026 20:00,New York/New Jersey Stadium,Group I,hometeam,France,0,0,0,0,0
-17,1,16/06/2026 20:00,New York/New Jersey Stadium,Group I,awayteam,Senegal,0,0,0,0,0
-18,1,16/06/2026 23:00,Boston Stadium,Group I,hometeam,Iraq,0,0,0,0,0
-18,1,16/06/2026 23:00,Boston Stadium,Group I,awayteam,Norway,0,0,0,0,0
-19,1,17/06/2026 02:00,Kansas City Stadium,Group J,hometeam,Argentina,0,0,0,0,0
-19,1,17/06/2026 02:00,Kansas City Stadium,Group J,awayteam,Algeria,0,0,0,0,0
-20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,hometeam,Austria,0,0,0,0,0
-20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,awayteam,Jordan,0,0,0,0,0
+17,1,16/06/2026 20:00,New York/New Jersey Stadium,Group I,hometeam,France,3,0,0,0,5
+17,1,16/06/2026 20:00,New York/New Jersey Stadium,Group I,awayteam,Senegal,1,0,0,0,9
+18,1,16/06/2026 23:00,Boston Stadium,Group I,hometeam,Iraq,1,0,1,0,12
+18,1,16/06/2026 23:00,Boston Stadium,Group I,awayteam,Norway,4,0,0,0,13
+19,1,17/06/2026 02:00,Kansas City Stadium,Group J,hometeam,Argentina,3,0,0,0,13
+19,1,17/06/2026 02:00,Kansas City Stadium,Group J,awayteam,Algeria,0,0,0,0,8
+20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,hometeam,Austria,3,1,1,0,12
+20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,awayteam,Jordan,1,0,0,0,7
 23,1,17/06/2026 18:00,Houston Stadium,Group K,hometeam,Portugal,0,0,0,0,0
 23,1,17/06/2026 18:00,Houston Stadium,Group K,awayteam,Congo DR,0,0,0,0,0
 22,1,17/06/2026 21:00,Dallas Stadium,Group L,hometeam,England,0,0,0,0,0
