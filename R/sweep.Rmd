@@ -43,7 +43,7 @@ groups <- c("Group A",
             "Group C",
             "Group D",
             "Group E",
-            "Group F")
+            "Group F", "Group G", "Group H", "Group I", "Group J", "Group K", "Group L")
 
 colspec <- cols(
   matchnumber = col_integer(),

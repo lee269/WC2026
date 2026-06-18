@@ -39,14 +39,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 19,1,17/06/2026 02:00,Kansas City Stadium,Group J,awayteam,Algeria,0,0,0,0,8
 20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,hometeam,Austria,3,1,1,0,12
 20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,awayteam,Jordan,1,0,0,0,7
-23,1,17/06/2026 18:00,Houston Stadium,Group K,hometeam,Portugal,0,0,0,0,0
-23,1,17/06/2026 18:00,Houston Stadium,Group K,awayteam,Congo DR,0,0,0,0,0
-22,1,17/06/2026 21:00,Dallas Stadium,Group L,hometeam,England,0,0,0,0,0
-22,1,17/06/2026 21:00,Dallas Stadium,Group L,awayteam,Croatia,0,0,0,0,0
-21,1,18/06/2026 00:00,Toronto Stadium,Group L,hometeam,Ghana,0,0,0,0,0
-21,1,18/06/2026 00:00,Toronto Stadium,Group L,awayteam,Panama,0,0,0,0,0
-24,1,18/06/2026 03:00,Mexico City Stadium,Group K,hometeam,Uzbekistan,0,0,0,0,0
-24,1,18/06/2026 03:00,Mexico City Stadium,Group K,awayteam,Colombia,0,0,0,0,0
+23,1,17/06/2026 18:00,Houston Stadium,Group K,hometeam,Portugal,1,0,3,0,9
+23,1,17/06/2026 18:00,Houston Stadium,Group K,awayteam,Congo DR,1,0,1,0,10
+22,1,17/06/2026 21:00,Dallas Stadium,Group L,hometeam,England,4,1,0,0,10
+22,1,17/06/2026 21:00,Dallas Stadium,Group L,awayteam,Croatia,2,0,0,0,12
+21,1,18/06/2026 00:00,Toronto Stadium,Group L,hometeam,Ghana,1,0,1,0,9
+21,1,18/06/2026 00:00,Toronto Stadium,Group L,awayteam,Panama,0,0,2,0,11
+24,1,18/06/2026 03:00,Mexico City Stadium,Group K,hometeam,Uzbekistan,1,0,1,0,14
+24,1,18/06/2026 03:00,Mexico City Stadium,Group K,awayteam,Colombia,3,0,1,0,11
 25,2,18/06/2026 17:00,Atlanta Stadium,Group A,hometeam,Czechia,0,0,0,0,0
 25,2,18/06/2026 17:00,Atlanta Stadium,Group A,awayteam,South Africa,0,0,0,0,0
 26,2,18/06/2026 20:00,Los Angeles Stadium,Group B,hometeam,Switzerland,0,0,0,0,0
