@@ -79,14 +79,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 37,2,21/06/2026 23:00,Miami Stadium,Group H,awayteam,Cabo Verde,2,0,2,0,4
 40,2,22/06/2026 02:00,BC Place Vancouver,Group G,hometeam,New Zealand,1,0,2,0,14
 40,2,22/06/2026 02:00,BC Place Vancouver,Group G,awayteam,Egypt,3,0,1,0,8
-43,2,22/06/2026 18:00,Dallas Stadium,Group J,hometeam,Argentina,0,0,0,0,0
-43,2,22/06/2026 18:00,Dallas Stadium,Group J,awayteam,Austria,0,0,0,0,0
-42,2,22/06/2026 22:00,Philadelphia Stadium,Group I,hometeam,France,0,0,0,0,0
-42,2,22/06/2026 22:00,Philadelphia Stadium,Group I,awayteam,Iraq,0,0,0,0,0
-41,2,23/06/2026 01:00,New York/New Jersey Stadium,Group I,hometeam,Norway,0,0,0,0,0
-41,2,23/06/2026 01:00,New York/New Jersey Stadium,Group I,awayteam,Senegal,0,0,0,0,0
-44,2,23/06/2026 04:00,San Francisco Bay Area Stadium,Group J,hometeam,Jordan,0,0,0,0,0
-44,2,23/06/2026 04:00,San Francisco Bay Area Stadium,Group J,awayteam,Algeria,0,0,0,0,0
+43,2,22/06/2026 18:00,Dallas Stadium,Group J,hometeam,Argentina,2,0,2,0,13
+43,2,22/06/2026 18:00,Dallas Stadium,Group J,awayteam,Austria,0,0,2,0,13
+42,2,22/06/2026 22:00,Philadelphia Stadium,Group I,hometeam,France,3,0,0,0,8
+42,2,22/06/2026 22:00,Philadelphia Stadium,Group I,awayteam,Iraq,0,0,1,0,4
+41,2,23/06/2026 01:00,New York/New Jersey Stadium,Group I,hometeam,Norway,3,0,0,0,13
+41,2,23/06/2026 01:00,New York/New Jersey Stadium,Group I,awayteam,Senegal,2,0,0,0,5
+44,2,23/06/2026 04:00,San Francisco Bay Area Stadium,Group J,hometeam,Jordan,1,0,1,0,11
+44,2,23/06/2026 04:00,San Francisco Bay Area Stadium,Group J,awayteam,Algeria,2,0,1,0,6
 47,2,23/06/2026 18:00,Houston Stadium,Group K,hometeam,Portugal,0,0,0,0,0
 47,2,23/06/2026 18:00,Houston Stadium,Group K,awayteam,Uzbekistan,0,0,0,0,0
 45,2,23/06/2026 21:00,Boston Stadium,Group L,hometeam,England,0,0,0,0,0
