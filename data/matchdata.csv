@@ -107,18 +107,18 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 53,3,25/06/2026 02:00,Mexico City Stadium,Group A,awayteam,Mexico,3,0,1,0,13
 54,3,25/06/2026 02:00,Monterrey Stadium,Group A,hometeam,South Africa,1,0,1,0,7
 54,3,25/06/2026 02:00,Monterrey Stadium,Group A,awayteam,Korea Republic,0,0,1,0,9
-55,3,25/06/2026 21:00,Philadelphia Stadium,Group E,hometeam,Curaçao,0,0,0,0,0
-55,3,25/06/2026 21:00,Philadelphia Stadium,Group E,awayteam,Côte d'Ivoire,0,0,0,0,0
-56,3,25/06/2026 21:00,New York/New Jersey Stadium,Group E,hometeam,Ecuador,0,0,0,0,0
-56,3,25/06/2026 21:00,New York/New Jersey Stadium,Group E,awayteam,Germany,0,0,0,0,0
-57,3,26/06/2026 00:00,Dallas Stadium,Group F,hometeam,Japan,0,0,0,0,0
-57,3,26/06/2026 00:00,Dallas Stadium,Group F,awayteam,Sweden,0,0,0,0,0
-58,3,26/06/2026 00:00,Kansas City Stadium,Group F,hometeam,Tunisia,0,0,0,0,0
-58,3,26/06/2026 00:00,Kansas City Stadium,Group F,awayteam,Netherlands,0,0,0,0,0
-59,3,26/06/2026 03:00,Los Angeles Stadium,Group D,hometeam,Türkiye,0,0,0,0,0
-59,3,26/06/2026 03:00,Los Angeles Stadium,Group D,awayteam,USA,0,0,0,0,0
-60,3,26/06/2026 03:00,San Francisco Bay Area Stadium,Group D,hometeam,Paraguay,0,0,0,0,0
-60,3,26/06/2026 03:00,San Francisco Bay Area Stadium,Group D,awayteam,Australia,0,0,0,0,0
+55,3,25/06/2026 21:00,Philadelphia Stadium,Group E,hometeam,Curaçao,0,0,2,0,11
+55,3,25/06/2026 21:00,Philadelphia Stadium,Group E,awayteam,Côte d'Ivoire,2,0,1,0,6
+56,3,25/06/2026 21:00,New York/New Jersey Stadium,Group E,hometeam,Ecuador,2,0,3,0,15
+56,3,25/06/2026 21:00,New York/New Jersey Stadium,Group E,awayteam,Germany,1,0,1,0,10
+57,3,26/06/2026 00:00,Dallas Stadium,Group F,hometeam,Japan,1,0,1,0,20
+57,3,26/06/2026 00:00,Dallas Stadium,Group F,awayteam,Sweden,1,0,2,0,11
+58,3,26/06/2026 00:00,Kansas City Stadium,Group F,hometeam,Tunisia,1,0,0,0,11
+58,3,26/06/2026 00:00,Kansas City Stadium,Group F,awayteam,Netherlands,2,0,0,0,10
+59,3,26/06/2026 03:00,Los Angeles Stadium,Group D,hometeam,Türkiye,3,0,0,0,13
+59,3,26/06/2026 03:00,Los Angeles Stadium,Group D,awayteam,USA,2,0,1,0,13
+60,3,26/06/2026 03:00,San Francisco Bay Area Stadium,Group D,hometeam,Paraguay,0,0,1,0,9
+60,3,26/06/2026 03:00,San Francisco Bay Area Stadium,Group D,awayteam,Australia,0,0,1,0,6
 61,3,26/06/2026 20:00,Boston Stadium,Group I,hometeam,Norway,0,0,0,0,0
 61,3,26/06/2026 20:00,Boston Stadium,Group I,awayteam,France,0,0,0,0,0
 62,3,26/06/2026 20:00,Toronto Stadium,Group I,hometeam,Senegal,0,0,0,0,0
@@ -146,12 +146,12 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 73,Round of 32,28/06/2026 20:00,Los Angeles Stadium,NA,hometeam,South Africa,0,0,0,0,0
 73,Round of 32,28/06/2026 20:00,Los Angeles Stadium,NA,awayteam,Canada,0,0,0,0,0
 76,Round of 32,29/06/2026 18:00,Houston Stadium,NA,hometeam,Brazil,0,0,0,0,0
-76,Round of 32,29/06/2026 18:00,Houston Stadium,NA,awayteam,2F,0,0,0,0,0
+76,Round of 32,29/06/2026 18:00,Houston Stadium,NA,awayteam,Japan,0,0,0,0,0
 74,Round of 32,29/06/2026 21:30,Boston Stadium,NA,hometeam,Germany,0,0,0,0,0
 74,Round of 32,29/06/2026 21:30,Boston Stadium,NA,awayteam,3ABCDF,0,0,0,0,0
-75,Round of 32,30/06/2026 02:00,Monterrey Stadium,NA,hometeam,1F,0,0,0,0,0
+75,Round of 32,30/06/2026 02:00,Monterrey Stadium,NA,hometeam,Netherlands,0,0,0,0,0
 75,Round of 32,30/06/2026 02:00,Monterrey Stadium,NA,awayteam,Morocco,0,0,0,0,0
-78,Round of 32,30/06/2026 18:00,Dallas Stadium,NA,hometeam,2E,0,0,0,0,0
+78,Round of 32,30/06/2026 18:00,Dallas Stadium,NA,hometeam,Côte d’Ivoire,0,0,0,0,0
 78,Round of 32,30/06/2026 18:00,Dallas Stadium,NA,awayteam,2I,0,0,0,0,0
 77,Round of 32,30/06/2026 22:00,New York/New Jersey Stadium,NA,hometeam,1I,0,0,0,0,0
 77,Round of 32,30/06/2026 22:00,New York/New Jersey Stadium,NA,awayteam,3CDFGH,0,0,0,0,0
@@ -162,14 +162,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 82,Round of 32,01/07/2026 21:00,Seattle Stadium,NA,hometeam,1G,0,0,0,0,0
 82,Round of 32,01/07/2026 21:00,Seattle Stadium,NA,awayteam,3AEHIJ,0,0,0,0,0
 81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,hometeam,USA,0,0,0,0,0
-81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,awayteam,3BEFIJ,0,0,0,0,0
+81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,awayteam,Bosnia and Herzegovina,0,0,0,0,0
 84,Round of 32,02/07/2026 20:00,Los Angeles Stadium,NA,hometeam,1H,0,0,0,0,0
 84,Round of 32,02/07/2026 20:00,Los Angeles Stadium,NA,awayteam,2J,0,0,0,0,0
 83,Round of 32,03/07/2026 00:00,Toronto Stadium,NA,hometeam,2K,0,0,0,0,0
 83,Round of 32,03/07/2026 00:00,Toronto Stadium,NA,awayteam,2L,0,0,0,0,0
 85,Round of 32,03/07/2026 04:00,BC Place Vancouver,NA,hometeam,Switzerland,0,0,0,0,0
 85,Round of 32,03/07/2026 04:00,BC Place Vancouver,NA,awayteam,3EFGIJ,0,0,0,0,0
-88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,hometeam,2D,0,0,0,0,0
+88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,hometeam,Australia,0,0,0,0,0
 88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,awayteam,2G,0,0,0,0,0
 86,Round of 32,03/07/2026 23:00,Miami Stadium,NA,hometeam,Argentina,0,0,0,0,0
 86,Round of 32,03/07/2026 23:00,Miami Stadium,NA,awayteam,2H,0,0,0,0,0
