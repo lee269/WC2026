@@ -143,8 +143,8 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 69,3,28/06/2026 03:00,Kansas City Stadium,Group J,awayteam,Austria,3,0,1,0,7
 70,3,28/06/2026 03:00,Dallas Stadium,Group J,hometeam,Jordan,1,0,3,0,13
 70,3,28/06/2026 03:00,Dallas Stadium,Group J,awayteam,Argentina,3,1,0,0,7
-73,Round of 32,28/06/2026 20:00,Los Angeles Stadium,NA,hometeam,South Africa,0,0,0,0,0
-73,Round of 32,28/06/2026 20:00,Los Angeles Stadium,NA,awayteam,Canada,0,0,0,0,0
+73,Round of 32,28/06/2026 20:00,Los Angeles Stadium,NA,hometeam,South Africa,0,0,0,0,10
+73,Round of 32,28/06/2026 20:00,Los Angeles Stadium,NA,awayteam,Canada,1,0,2,0,16
 76,Round of 32,29/06/2026 18:00,Houston Stadium,NA,hometeam,Brazil,0,0,0,0,0
 76,Round of 32,29/06/2026 18:00,Houston Stadium,NA,awayteam,Japan,0,0,0,0,0
 74,Round of 32,29/06/2026 21:30,Boston Stadium,NA,hometeam,Germany,0,0,0,0,0
