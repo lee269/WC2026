@@ -157,12 +157,12 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 77,Round of 32,30/06/2026 22:00,New York/New Jersey Stadium,NA,awayteam,Sweden,0,0,0,0,10
 79,Round of 32,01/07/2026 02:00,Mexico City Stadium,NA,hometeam,Mexico,2,0,0,0,10
 79,Round of 32,01/07/2026 02:00,Mexico City Stadium,NA,awayteam,Ecuador,0,0,3,1,14
-80,Round of 32,01/07/2026 17:00,Atlanta Stadium,NA,hometeam,England,0,0,0,0,0
-80,Round of 32,01/07/2026 17:00,Atlanta Stadium,NA,awayteam,Congo DR,0,0,0,0,0
-82,Round of 32,01/07/2026 21:00,Seattle Stadium,NA,hometeam,Belgium,0,0,0,0,0
-82,Round of 32,01/07/2026 21:00,Seattle Stadium,NA,awayteam,Senegal,0,0,0,0,0
-81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,hometeam,USA,0,0,0,0,0
-81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,awayteam,Bosnia and Herzegovina,0,0,0,0,0
+80,Round of 32,01/07/2026 17:00,Atlanta Stadium,NA,hometeam,England,2,0,1,0,10
+80,Round of 32,01/07/2026 17:00,Atlanta Stadium,NA,awayteam,Congo DR,1,0,1,0,12
+82,Round of 32,01/07/2026 21:00,Seattle Stadium,NA,hometeam,Belgium,3,0,1,0,22
+82,Round of 32,01/07/2026 21:00,Seattle Stadium,NA,awayteam,Senegal,2,0,1,0,12
+81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,hometeam,USA,2,0,0,1,7
+81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,awayteam,Bosnia and Herzegovina,0,0,1,0,13
 84,Round of 32,02/07/2026 20:00,Los Angeles Stadium,NA,hometeam,Spain,0,0,0,0,0
 84,Round of 32,02/07/2026 20:00,Los Angeles Stadium,NA,awayteam,Austria,0,0,0,0,0
 83,Round of 32,03/07/2026 00:00,Toronto Stadium,NA,hometeam,Portugal,0,0,0,0,0
@@ -182,11 +182,11 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 91,Round of 16,05/07/2026 21:00,New York/New Jersey Stadium,NA,hometeam,Brazil,0,0,0,0,0
 91,Round of 16,05/07/2026 21:00,New York/New Jersey Stadium,NA,awayteam,Norway,0,0,0,0,0
 92,Round of 16,06/07/2026 01:00,Mexico City Stadium,NA,hometeam,Mexico,0,0,0,0,0
-92,Round of 16,06/07/2026 01:00,Mexico City Stadium,NA,awayteam,W80,0,0,0,0,0
+92,Round of 16,06/07/2026 01:00,Mexico City Stadium,NA,awayteam,England,0,0,0,0,0
 93,Round of 16,06/07/2026 20:00,Dallas Stadium,NA,hometeam,W83,0,0,0,0,0
 93,Round of 16,06/07/2026 20:00,Dallas Stadium,NA,awayteam,W84,0,0,0,0,0
-94,Round of 16,07/07/2026 01:00,Seattle Stadium,NA,hometeam,W81,0,0,0,0,0
-94,Round of 16,07/07/2026 01:00,Seattle Stadium,NA,awayteam,W82,0,0,0,0,0
+94,Round of 16,07/07/2026 01:00,Seattle Stadium,NA,hometeam,USA,0,0,0,0,0
+94,Round of 16,07/07/2026 01:00,Seattle Stadium,NA,awayteam,Belgium,0,0,0,0,0
 95,Round of 16,07/07/2026 17:00,Atlanta Stadium,NA,hometeam,W86,0,0,0,0,0
 95,Round of 16,07/07/2026 17:00,Atlanta Stadium,NA,awayteam,W88,0,0,0,0,0
 96,Round of 16,07/07/2026 21:00,BC Place Vancouver,NA,hometeam,W85,0,0,0,0,0
