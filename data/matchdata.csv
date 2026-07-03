@@ -15,7 +15,7 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 5,1,14/06/2026 02:00,Boston Stadium,Group C,awayteam,Scotland,1,0,3,0,21
 6,1,14/06/2026 05:00,BC Place Vancouver,Group D,hometeam,Australia,2,0,0,0,12
 6,1,14/06/2026 05:00,BC Place Vancouver,Group D,awayteam,Türkiye,0,0,1,0,4
-10,1,14/06/2026 18:00,Houston Stadium,Group E,hometeam,Germany,7,1,0,0,18
+10,1,14/06/2026 18:00,Houston Stadium,Group E,hometeam,Germany,7,0,0,0,18
 10,1,14/06/2026 18:00,Houston Stadium,Group E,awayteam,Curaçao,1,0,0,0,11
 11,1,14/06/2026 21:00,Dallas Stadium,Group F,hometeam,Netherlands,2,0,3,0,7
 11,1,14/06/2026 21:00,Dallas Stadium,Group F,awayteam,Japan,2,0,0,0,7
@@ -37,7 +37,7 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 18,1,16/06/2026 23:00,Boston Stadium,Group I,awayteam,Norway,4,0,0,0,13
 19,1,17/06/2026 02:00,Kansas City Stadium,Group J,hometeam,Argentina,3,0,0,0,13
 19,1,17/06/2026 02:00,Kansas City Stadium,Group J,awayteam,Algeria,0,0,0,0,8
-20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,hometeam,Austria,3,1,1,0,12
+20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,hometeam,Austria,3,0,1,0,12
 20,1,17/06/2026 05:00,San Francisco Bay Area Stadium,Group J,awayteam,Jordan,1,0,0,0,7
 23,1,17/06/2026 18:00,Houston Stadium,Group K,hometeam,Portugal,1,0,3,0,9
 23,1,17/06/2026 18:00,Houston Stadium,Group K,awayteam,Congo DR,1,0,1,0,10
@@ -49,7 +49,7 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 24,1,18/06/2026 03:00,Mexico City Stadium,Group K,awayteam,Colombia,3,0,1,0,11
 25,2,18/06/2026 17:00,Atlanta Stadium,Group A,hometeam,Czechia,1,0,1,0,12
 25,2,18/06/2026 17:00,Atlanta Stadium,Group A,awayteam,South Africa,1,0,2,0,10
-26,2,18/06/2026 20:00,Los Angeles Stadium,Group B,hometeam,Switzerland,4,1,1,0,7
+26,2,18/06/2026 20:00,Los Angeles Stadium,Group B,hometeam,Switzerland,4,0,1,0,7
 26,2,18/06/2026 20:00,Los Angeles Stadium,Group B,awayteam,Bosnia and Herzegovina,1,0,2,1,18
 27,2,18/06/2026 23:00,BC Place Vancouver,Group B,hometeam,Canada,6,0,1,0,9
 27,2,18/06/2026 23:00,BC Place Vancouver,Group B,awayteam,Qatar,0,0,1,2,10
@@ -142,7 +142,7 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 69,3,28/06/2026 03:00,Kansas City Stadium,Group J,hometeam,Algeria,3,0,0,0,3
 69,3,28/06/2026 03:00,Kansas City Stadium,Group J,awayteam,Austria,3,0,1,0,7
 70,3,28/06/2026 03:00,Dallas Stadium,Group J,hometeam,Jordan,1,0,3,0,13
-70,3,28/06/2026 03:00,Dallas Stadium,Group J,awayteam,Argentina,3,1,0,0,7
+70,3,28/06/2026 03:00,Dallas Stadium,Group J,awayteam,Argentina,3,0,0,0,7
 73,Round of 32,28/06/2026 20:00,Los Angeles Stadium,NA,hometeam,South Africa,0,0,0,0,10
 73,Round of 32,28/06/2026 20:00,Los Angeles Stadium,NA,awayteam,Canada,1,0,2,0,16
 76,Round of 32,29/06/2026 18:00,Houston Stadium,NA,hometeam,Brazil,2,0,0,0,0
@@ -163,12 +163,12 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 82,Round of 32,01/07/2026 21:00,Seattle Stadium,NA,awayteam,Senegal,2,0,1,0,12
 81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,hometeam,USA,2,0,0,1,7
 81,Round of 32,02/07/2026 01:00,San Francisco Bay Area Stadium,NA,awayteam,Bosnia and Herzegovina,0,0,1,0,13
-84,Round of 32,02/07/2026 20:00,Los Angeles Stadium,NA,hometeam,Spain,0,0,0,0,0
-84,Round of 32,02/07/2026 20:00,Los Angeles Stadium,NA,awayteam,Austria,0,0,0,0,0
-83,Round of 32,03/07/2026 00:00,Toronto Stadium,NA,hometeam,Portugal,0,0,0,0,0
-83,Round of 32,03/07/2026 00:00,Toronto Stadium,NA,awayteam,Croatia,0,0,0,0,0
-85,Round of 32,03/07/2026 04:00,BC Place Vancouver,NA,hometeam,Switzerland,0,0,0,0,0
-85,Round of 32,03/07/2026 04:00,BC Place Vancouver,NA,awayteam,Algeria,0,0,0,0,0
+84,Round of 32,02/07/2026 20:00,Los Angeles Stadium,NA,hometeam,Spain,3,0,0,0,8
+84,Round of 32,02/07/2026 20:00,Los Angeles Stadium,NA,awayteam,Austria,0,0,1,0,15
+83,Round of 32,03/07/2026 00:00,Toronto Stadium,NA,hometeam,Portugal,2,0,1,0,6
+83,Round of 32,03/07/2026 00:00,Toronto Stadium,NA,awayteam,Croatia,1,0,2,0,12
+85,Round of 32,03/07/2026 04:00,BC Place Vancouver,NA,hometeam,Switzerland,2,0,0,0,10
+85,Round of 32,03/07/2026 04:00,BC Place Vancouver,NA,awayteam,Algeria,0,0,2,0,12
 88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,hometeam,Australia,0,0,0,0,0
 88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,awayteam,Egypt,0,0,0,0,0
 86,Round of 32,03/07/2026 23:00,Miami Stadium,NA,hometeam,Argentina,0,0,0,0,0
@@ -183,13 +183,13 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 91,Round of 16,05/07/2026 21:00,New York/New Jersey Stadium,NA,awayteam,Norway,0,0,0,0,0
 92,Round of 16,06/07/2026 01:00,Mexico City Stadium,NA,hometeam,Mexico,0,0,0,0,0
 92,Round of 16,06/07/2026 01:00,Mexico City Stadium,NA,awayteam,England,0,0,0,0,0
-93,Round of 16,06/07/2026 20:00,Dallas Stadium,NA,hometeam,W83,0,0,0,0,0
-93,Round of 16,06/07/2026 20:00,Dallas Stadium,NA,awayteam,W84,0,0,0,0,0
+93,Round of 16,06/07/2026 20:00,Dallas Stadium,NA,hometeam,Portugal,0,0,0,0,0
+93,Round of 16,06/07/2026 20:00,Dallas Stadium,NA,awayteam,Spain,0,0,0,0,0
 94,Round of 16,07/07/2026 01:00,Seattle Stadium,NA,hometeam,USA,0,0,0,0,0
 94,Round of 16,07/07/2026 01:00,Seattle Stadium,NA,awayteam,Belgium,0,0,0,0,0
 95,Round of 16,07/07/2026 17:00,Atlanta Stadium,NA,hometeam,W86,0,0,0,0,0
 95,Round of 16,07/07/2026 17:00,Atlanta Stadium,NA,awayteam,W88,0,0,0,0,0
-96,Round of 16,07/07/2026 21:00,BC Place Vancouver,NA,hometeam,W85,0,0,0,0,0
+96,Round of 16,07/07/2026 21:00,BC Place Vancouver,NA,hometeam,Switzerland,0,0,0,0,0
 96,Round of 16,07/07/2026 21:00,BC Place Vancouver,NA,awayteam,W87,0,0,0,0,0
 97,Quarter Finals,09/07/2026 21:00,Boston Stadium,NA,hometeam,W89,0,0,0,0,0
 97,Quarter Finals,09/07/2026 21:00,Boston Stadium,NA,awayteam,W90,0,0,0,0,0
