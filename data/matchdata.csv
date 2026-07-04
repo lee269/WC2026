@@ -169,12 +169,12 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 83,Round of 32,03/07/2026 00:00,Toronto Stadium,NA,awayteam,Croatia,1,0,2,0,12
 85,Round of 32,03/07/2026 04:00,BC Place Vancouver,NA,hometeam,Switzerland,2,0,0,0,10
 85,Round of 32,03/07/2026 04:00,BC Place Vancouver,NA,awayteam,Algeria,0,0,2,0,12
-88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,hometeam,Australia,0,0,0,0,0
-88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,awayteam,Egypt,0,0,0,0,0
-86,Round of 32,03/07/2026 23:00,Miami Stadium,NA,hometeam,Argentina,0,0,0,0,0
-86,Round of 32,03/07/2026 23:00,Miami Stadium,NA,awayteam,Cabo Verde,0,0,0,0,0
-87,Round of 32,04/07/2026 02:30,Kansas City Stadium,NA,hometeam,Colombia,0,0,0,0,0
-87,Round of 32,04/07/2026 02:30,Kansas City Stadium,NA,awayteam,Ghana,0,0,0,0,0
+88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,hometeam,Australia,1,2,0,0,12
+88,Round of 32,03/07/2026 19:00,Dallas Stadium,NA,awayteam,Egypt,1,4,2,0,14
+86,Round of 32,03/07/2026 23:00,Miami Stadium,NA,hometeam,Argentina,3,0,1,0,13
+86,Round of 32,03/07/2026 23:00,Miami Stadium,NA,awayteam,Cabo Verde,2,0,1,0,12
+87,Round of 32,04/07/2026 02:30,Kansas City Stadium,NA,hometeam,Colombia,1,0,2,0,14
+87,Round of 32,04/07/2026 02:30,Kansas City Stadium,NA,awayteam,Ghana,0,0,3,0,10
 90,Round of 16,04/07/2026 18:00,Houston Stadium,NA,hometeam,Canada,0,0,0,0,0
 90,Round of 16,04/07/2026 18:00,Houston Stadium,NA,awayteam,Morocco,0,0,0,0,0
 89,Round of 16,04/07/2026 22:00,Philadelphia Stadium,NA,hometeam,Paraguay,0,0,0,0,0
@@ -187,10 +187,10 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 93,Round of 16,06/07/2026 20:00,Dallas Stadium,NA,awayteam,Spain,0,0,0,0,0
 94,Round of 16,07/07/2026 01:00,Seattle Stadium,NA,hometeam,USA,0,0,0,0,0
 94,Round of 16,07/07/2026 01:00,Seattle Stadium,NA,awayteam,Belgium,0,0,0,0,0
-95,Round of 16,07/07/2026 17:00,Atlanta Stadium,NA,hometeam,W86,0,0,0,0,0
-95,Round of 16,07/07/2026 17:00,Atlanta Stadium,NA,awayteam,W88,0,0,0,0,0
+95,Round of 16,07/07/2026 17:00,Atlanta Stadium,NA,hometeam,Argentina,0,0,0,0,0
+95,Round of 16,07/07/2026 17:00,Atlanta Stadium,NA,awayteam,Egypt,0,0,0,0,0
 96,Round of 16,07/07/2026 21:00,BC Place Vancouver,NA,hometeam,Switzerland,0,0,0,0,0
-96,Round of 16,07/07/2026 21:00,BC Place Vancouver,NA,awayteam,W87,0,0,0,0,0
+96,Round of 16,07/07/2026 21:00,BC Place Vancouver,NA,awayteam,Colombia,0,0,0,0,0
 97,Quarter Finals,09/07/2026 21:00,Boston Stadium,NA,hometeam,W89,0,0,0,0,0
 97,Quarter Finals,09/07/2026 21:00,Boston Stadium,NA,awayteam,W90,0,0,0,0,0
 98,Quarter Finals,10/07/2026 20:00,Los Angeles Stadium,NA,hometeam,W93,0,0,0,0,0
