@@ -175,10 +175,10 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 86,Round of 32,03/07/2026 23:00,Miami Stadium,NA,awayteam,Cabo Verde,2,0,1,0,12
 87,Round of 32,04/07/2026 02:30,Kansas City Stadium,NA,hometeam,Colombia,1,0,2,0,14
 87,Round of 32,04/07/2026 02:30,Kansas City Stadium,NA,awayteam,Ghana,0,0,3,0,10
-90,Round of 16,04/07/2026 18:00,Houston Stadium,NA,hometeam,Canada,0,0,0,0,0
-90,Round of 16,04/07/2026 18:00,Houston Stadium,NA,awayteam,Morocco,0,0,0,0,0
-89,Round of 16,04/07/2026 22:00,Philadelphia Stadium,NA,hometeam,Paraguay,0,0,0,0,0
-89,Round of 16,04/07/2026 22:00,Philadelphia Stadium,NA,awayteam,France,0,0,0,0,0
+90,Round of 16,04/07/2026 18:00,Houston Stadium,NA,hometeam,Canada,0,0,4,0,24
+90,Round of 16,04/07/2026 18:00,Houston Stadium,NA,awayteam,Morocco,3,0,4,0,14
+89,Round of 16,04/07/2026 22:00,Philadelphia Stadium,NA,hometeam,Paraguay,0,0,0,0,13
+89,Round of 16,04/07/2026 22:00,Philadelphia Stadium,NA,awayteam,France,1,0,3,0,11
 91,Round of 16,05/07/2026 21:00,New York/New Jersey Stadium,NA,hometeam,Brazil,0,0,0,0,0
 91,Round of 16,05/07/2026 21:00,New York/New Jersey Stadium,NA,awayteam,Norway,0,0,0,0,0
 92,Round of 16,06/07/2026 01:00,Mexico City Stadium,NA,hometeam,Mexico,0,0,0,0,0
