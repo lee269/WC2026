@@ -195,14 +195,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 97,Quarter Finals,09/07/2026 21:00,Boston Stadium,NA,awayteam,Morocco,0,0,1,0,13
 98,Quarter Finals,10/07/2026 20:00,Los Angeles Stadium,NA,hometeam,Spain,2,0,2,0,13
 98,Quarter Finals,10/07/2026 20:00,Los Angeles Stadium,NA,awayteam,Belgium,1,0,2,0,18
-99,Quarter Finals,11/07/2026 22:00,Miami Stadium,NA,hometeam,Norway,0,0,0,0,0
-99,Quarter Finals,11/07/2026 22:00,Miami Stadium,NA,awayteam,England,0,0,0,0,0
-100,Quarter Finals,12/07/2026 02:00,Kansas City Stadium,NA,hometeam,Argentina,0,0,0,0,0
-100,Quarter Finals,12/07/2026 02:00,Kansas City Stadium,NA,awayteam,Switzerland,0,0,0,0,0
-101,Semi Finals,14/07/2026 20:00,Dallas Stadium,NA,hometeam,W97,0,0,0,0,0
-101,Semi Finals,14/07/2026 20:00,Dallas Stadium,NA,awayteam,W98,0,0,0,0,0
-102,Semi Finals,15/07/2026 20:00,Atlanta Stadium,NA,hometeam,W99,0,0,0,0,0
-102,Semi Finals,15/07/2026 20:00,Atlanta Stadium,NA,awayteam,W100,0,0,0,0,0
+99,Quarter Finals,11/07/2026 22:00,Miami Stadium,NA,hometeam,Norway,1,0,1,0,10
+99,Quarter Finals,11/07/2026 22:00,Miami Stadium,NA,awayteam,England,2,0,0,0,8
+100,Quarter Finals,12/07/2026 02:00,Kansas City Stadium,NA,hometeam,Argentina,3,0,3,0,14
+100,Quarter Finals,12/07/2026 02:00,Kansas City Stadium,NA,awayteam,Switzerland,1,0,2,1,18
+101,Semi Finals,14/07/2026 20:00,Dallas Stadium,NA,hometeam,France,0,0,0,0,0
+101,Semi Finals,14/07/2026 20:00,Dallas Stadium,NA,awayteam,Spain,0,0,0,0,0
+102,Semi Finals,15/07/2026 20:00,Atlanta Stadium,NA,hometeam,England,0,0,0,0,0
+102,Semi Finals,15/07/2026 20:00,Atlanta Stadium,NA,awayteam,Argentina,0,0,0,0,0
 103,Finals,18/07/2026 22:00,Miami Stadium,NA,hometeam,RU101,0,0,0,0,0
 103,Finals,18/07/2026 22:00,Miami Stadium,NA,awayteam,RU102,0,0,0,0,0
 104,Finals,19/07/2026 20:00,New York/New Jersey Stadium,NA,hometeam,W101,0,0,0,0,0
